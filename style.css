@@ -682,6 +682,7 @@ section .location {
     line-height: 1.25;
   }
   @page {
+    size: A4;
     margin: 1cm 1.4cm;
   }
   .item-count {
