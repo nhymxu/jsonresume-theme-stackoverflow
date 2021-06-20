@@ -41,4 +41,15 @@ function render(resume) {
   });
 }
 
-module.exports = { render };
+const marginValue = '0.8 cm';
+const pdfRenderOptions = {
+  format: 'A4',
+  margin: {
+    top: marginValue,
+    bottom: marginValue,
+    left: marginValue,
+    right: marginValue,
+  }
+}
+
+module.exports = { render, pdfRenderOptions };
