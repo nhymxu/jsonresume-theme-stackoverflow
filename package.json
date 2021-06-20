@@ -1,11 +1,14 @@
 {
-  "name": "jsonresume-theme-stackoverflow-FA5",
+  "name": "jsonresume-theme-stackoverflow-nhymxu",
   "version": "1.4.0",
-  "description": "Stack Overflow theme for JSON Resume",
+  "description": "Stack Overflow theme for JSON Resume. Modify by Dung Nguyen",
   "author": "Francesco Esposito <http://fran.cesco.io>",
+  "contributors": [
+    "Dung Nguyen (https://dungnt.net)"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/francescoes/jsonresume-theme-stackoverflow"
+    "url": "https://github.com/nhymxu/jsonresume-theme-stackoverflow"
   },
   "license": "MIT",
   "main": "index.js",
